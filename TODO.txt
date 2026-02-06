@@ -1,0 +1,25 @@
+[x] Notams scrapen
+[x] Notams toevoegen aan folium map met knopje zoals METAR
+[x] logbook invulhulp met tacho stand
+
+[x] Website toevoegen met link naar de luchthaven
+[x] Afbeeldingen luchthaven/runway scrapen
+[x] Updaten locatie url afbeeldingen in json
+[x] Afbeelding van de luchthaven obv 1. github locatie en anders 2. url.wikipedia.image
+[x] Aeordorome_image function cleanup
+[x] In de checklist de resultaten laten zien voor de verschillende onderdelen
+[x] POH in settings
+[x] POH meenemen in de analyse
+
+[x] Sneller maken (algemeen)
+[x] Folium hard/soft en dan (surface) tussen haakjes
+[x] ATC in dep/arr/alt. 
+[x] ATC in folium map bij airports
+[x] Bug fix flightmap in firebase
+[x] Runway fix when adding new runway
+[x] Runway store/load from firestore
+
+[ ] Documentatie schrijven
+[ ] Medium blog schrijven
+[ ] Regels verzinnen voor single vs. multi-user gebruik zoals bv bij een vliegclub
+
