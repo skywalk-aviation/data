@@ -16,7 +16,14 @@
 
 
     <div class="container">
-        <h1>DEPARTURE: {{ DEPARTURE_NAME|capitalize }} ({{ DEPARTURE_ICAO }})</h1>
+
+	<div style="display: flex; justify-content: flex-end; gap: 10px;">
+	    <button onclick="window.print();">Print this page</button>
+	    <button onclick="window.close()">Close</button>
+	</div>
+	<br>
+	
+	<h1>DEPARTURE: {{ DEPARTURE_NAME|capitalize }} ({{ DEPARTURE_ICAO }})</h1>
 
             <div class="grid" style="grid-template-columns: repeat({{ 1 }}, 1fr);">
                 <div class="taxi">
@@ -311,10 +318,12 @@
 
         
         </div>
-    <br><br>
-    <button onclick="window.print();">Print this page</button>
-    <br><br>
-
+	<br><br>
+	<div style="display: flex; justify-content: flex-end; gap: 10px;">
+	    <button onclick="window.print();">Print this page</button>
+	    <button onclick="window.close()">Close</button>
+	</div>
+	<br><br>
 </div>
 
 
