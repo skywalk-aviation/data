@@ -25,6 +25,7 @@ airspaces/*.csv
 airspaces/*.py
 airspaces/*.txt
 scripts/
+magweg/
 
 # keys
 .pypirc
