@@ -27,6 +27,8 @@ skywalk-db-firebase-secrets.json
 skywalk-db-firebase-secrets.toml
 bin
 *.keystore
+*.key
+*.secrets
 
 # Distribution / packaging
 .pylint.*
