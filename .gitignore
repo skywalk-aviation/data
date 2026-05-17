@@ -19,6 +19,8 @@ depricated/
 .idea
 .venv
 kivy/.buildozer/
+aerodromes/*.csv
+aerodromes/*.py
 
 # keys
 .pypirc
