@@ -23,6 +23,7 @@ aerodromes/*.csv
 aerodromes/*.py
 airspaces/*.csv
 airspaces/*.py
+airspaces/*.txt
 scripts/
 
 # keys
