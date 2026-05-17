@@ -21,6 +21,9 @@ depricated/
 kivy/.buildozer/
 aerodromes/*.csv
 aerodromes/*.py
+airspaces/*.csv
+airspaces/*.py
+scripts/
 
 # keys
 .pypirc
