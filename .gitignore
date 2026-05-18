@@ -26,6 +26,7 @@ airspaces/*.py
 airspaces/*.txt
 scripts/
 magweg/
+aerodromes_new/
 
 # keys
 .pypirc
