@@ -27,6 +27,7 @@ airspaces/*.txt
 scripts/
 magweg/
 aerodromes_new/
+depreciated/*
 
 # keys
 .pypirc
