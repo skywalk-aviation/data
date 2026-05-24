@@ -1,6 +1,7 @@
 country_code;name;squawk;frequency
-NL;amsterdam info;7020;124.300
-NL;dutch mill info;7000;132.350
-NL;rotterdam approach;7010;122.990
-BE;brussels info (Listening);5101;126.900
-BE;brussels info (Two-way-communication);2000;126.900
+NL;AMSTERDAM INFO;7020;124.300
+NL;DUTCH MILL INFO;7000;132.350
+NL;ROTTERDAM APPROACH;7010;122.990
+BE;BRUSSELS INFO (Listening);5101;126.900
+BE;BRUSSELS INFO (Two-way-communication);2000;126.900
+BE;BELGA RADAR;5101;129.325
